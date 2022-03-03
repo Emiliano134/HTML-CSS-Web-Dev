@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Snow White</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <!--
+       HEY ENGINEERS!
+
+       NO CHANGES NEEDED TO index.html FOR THIS EXERCISE!
+
+       HEAD OVER TO style.css!
+    -->
+    <div class="grid">
+      <div class="dwarf" id="sleepy">Sleepy</div>
+      <div class="dwarf" id="sneezy">Sneezy</div>
+      <div class="dwarf" id="doc">Doc</div>
+      <div class="dwarf" id="happy">Happy</div>
+      <div class="dwarf" id="grumpy">Grumpy</div>
+      <div class="dwarf" id="dopey">Dopey</div>
+      <div class="dwarf" id="bashful">Bashful</div>
+    </div>
+  </body>
+</html>
